@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelInvokeWithParallelOption\bin\Debug\ParallelInvokeWithParallelOption.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelInvokeWithParallelOption\bin\Debug\ParallelInvokeWithParallelOption.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelInvokeWithParallelOption\bin\Debug\ParallelInvokeWithParallelOption.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelInvokeWithParallelOption\obj\Debug\ParallelInvokeWithParallelOption.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelInvokeWithParallelOption\obj\Debug\ParallelInvokeWithParallelOption.pdb

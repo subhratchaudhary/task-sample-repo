@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\bin\Debug\TaskwtihContiueWtihMethod.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\bin\Debug\TaskwtihContiueWtihMethod.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\bin\Debug\TaskwtihContiueWtihMethod.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\obj\Debug\TaskwtihContiueWtihMethod.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\obj\Debug\TaskwtihContiueWtihMethod.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwtihContiueWtihMethod\obj\Debug\TaskwtihContiueWtihMethod.pdb

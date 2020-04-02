@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\bin\Debug\ParallelForLoop.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\bin\Debug\ParallelForLoop.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\bin\Debug\ParallelForLoop.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\obj\Debug\ParallelForLoop.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\obj\Debug\ParallelForLoop.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ParallelForLoop\obj\Debug\ParallelForLoop.pdb

@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\bin\Debug\TaskwithCancellationToken.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\bin\Debug\TaskwithCancellationToken.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\bin\Debug\TaskwithCancellationToken.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\obj\Debug\TaskwithCancellationToken.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\obj\Debug\TaskwithCancellationToken.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\TaskwithCancellationToken\obj\Debug\TaskwithCancellationToken.pdb

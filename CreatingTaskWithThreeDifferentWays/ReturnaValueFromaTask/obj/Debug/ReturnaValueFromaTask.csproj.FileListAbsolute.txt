@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\bin\Debug\ReturnaValueFromaTask.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\bin\Debug\ReturnaValueFromaTask.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\bin\Debug\ReturnaValueFromaTask.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\obj\Debug\ReturnaValueFromaTask.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\obj\Debug\ReturnaValueFromaTask.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\ReturnaValueFromaTask\obj\Debug\ReturnaValueFromaTask.pdb

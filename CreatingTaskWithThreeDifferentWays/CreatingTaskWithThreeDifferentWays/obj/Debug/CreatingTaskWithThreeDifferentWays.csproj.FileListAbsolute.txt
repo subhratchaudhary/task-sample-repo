@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\bin\Debug\CreatingTaskWithThreeDifferentWays.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\bin\Debug\CreatingTaskWithThreeDifferentWays.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\bin\Debug\CreatingTaskWithThreeDifferentWays.pdb
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\obj\Debug\CreatingTaskWithThreeDifferentWays.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\obj\Debug\CreatingTaskWithThreeDifferentWays.exe
+c:\users\hp\documents\visual studio 2017\Projects\CreatingTaskWithThreeDifferentWays\CreatingTaskWithThreeDifferentWays\obj\Debug\CreatingTaskWithThreeDifferentWays.pdb
